@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name             = 'OTML'
   s.module_name      = 'OTML'
 
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'OTML iOS Framework'
   s.description      = <<-DESC
                     OTML iOS Framework

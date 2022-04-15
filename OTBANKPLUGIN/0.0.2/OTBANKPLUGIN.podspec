@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name             = 'OTBANKPLUGIN'
   s.module_name      = 'OTBANKPLUGIN'
 
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Opentech Hibrid Framework SDK for BNL'
   s.description      = <<-DESC
 Opentech Hibrid Framework SDK for BNL
